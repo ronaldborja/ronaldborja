@@ -1,5 +1,10 @@
 Hi, I'm Ronald 👋
 
+I'm interested in the intersection of web development, machine learning and iot.
+
+You can reach me at 
+rborjaroman@gmail.com
+
 <!--
 **ronaldborja/ronaldborja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
