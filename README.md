@@ -1,6 +1,6 @@
 Hi, I'm Ronald 👋
 
-I was inspired by Richard Feynman to explore how atoms can be rearranged to form new products. Now, I'm interested in how to blend web development, machine learning, optimization, bioprocesses, bioinformatics, cloud computing & iot to solve global problems. 
+I am a Chemical Engineering and Software Engineering student from Colombia. I was inspired by Richard Feynman to explore how atoms can be rearranged to form new products. Now, I'm interested in the intersection of web development, machine learning, optimization, bioprocesses, bioinformatics, cloud computing & iot to solve global problems. 
 
 You can reach me at 
 rborjaroman@gmail.com
